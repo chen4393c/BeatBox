@@ -1,5 +1,5 @@
 # BeatBox
-A box that helps you beat people up
+A box that helps you beat people up.
 
 <ul>
   <li>Implemented MVVM architecture with data binding.</li>
